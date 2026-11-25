@@ -14,3 +14,16 @@
 *.dxil
 *.metallib
 /Assets/*.hair
+
+# Premake build support (added by Waffle fork)
+bin/
+**/bin/
+bin-int/
+**/bin-int/
+.vs/
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
